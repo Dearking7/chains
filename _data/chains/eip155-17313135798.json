@@ -1,0 +1,24 @@
+{
+  "name": "TON TEST",
+  "chain": "TON",
+  "rpc": [
+    "https://devchain.huabeizhenxuan.com"
+  ],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "TON",
+    "symbol": "TON",
+    "decimals": 18
+  },
+  "infoURL": "http://blockscout.huabeizhenxuan.com",
+  "shortName": "TON TEST",
+  "chainId": 17313135798,
+  "networkId": 17313135798,
+  "explorers": [
+    {
+      "name": "bscscan",
+      "url": "http://blockscout.huabeizhenxuan.com",
+      "standard": "EIP3091"
+    }
+  ]
+}
